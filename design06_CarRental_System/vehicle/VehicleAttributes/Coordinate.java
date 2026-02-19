@@ -1,0 +1,19 @@
+package src.design06_CarRental_System.vehicle.VehicleAttributes;
+
+public class Coordinate {
+    int latitude;
+    int longitude;
+
+    public Coordinate(int latitude, int longitude) {
+        this.latitude = latitude;
+        this.longitude = longitude;
+    }
+
+    public int getLatitude() {
+        return latitude;
+    }
+
+    public int getLongitude() {
+        return longitude;
+    }
+}

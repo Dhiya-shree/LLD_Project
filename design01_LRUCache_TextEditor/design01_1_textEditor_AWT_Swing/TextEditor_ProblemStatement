@@ -1,0 +1,10 @@
+Text Editor
+
+Problem statement :
+
+Insert any word at cursor 
+Delete K char from cursor
+Go left and print K char 
+Go right and print K char
+Print K char before and after cursor 
+
